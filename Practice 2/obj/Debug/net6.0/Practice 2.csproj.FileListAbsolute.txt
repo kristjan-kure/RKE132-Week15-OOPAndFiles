@@ -1,0 +1,15 @@
+C:\Users\krist\source\repos\Week15OOPAndFiles\Practice 2\bin\Debug\net6.0\Practice 2.exe
+C:\Users\krist\source\repos\Week15OOPAndFiles\Practice 2\bin\Debug\net6.0\Practice 2.deps.json
+C:\Users\krist\source\repos\Week15OOPAndFiles\Practice 2\bin\Debug\net6.0\Practice 2.runtimeconfig.json
+C:\Users\krist\source\repos\Week15OOPAndFiles\Practice 2\bin\Debug\net6.0\Practice 2.dll
+C:\Users\krist\source\repos\Week15OOPAndFiles\Practice 2\bin\Debug\net6.0\Practice 2.pdb
+C:\Users\krist\source\repos\Week15OOPAndFiles\Practice 2\obj\Debug\net6.0\Practice 2.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\Week15OOPAndFiles\Practice 2\obj\Debug\net6.0\Practice 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\source\repos\Week15OOPAndFiles\Practice 2\obj\Debug\net6.0\Practice 2.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\Week15OOPAndFiles\Practice 2\obj\Debug\net6.0\Practice 2.AssemblyInfo.cs
+C:\Users\krist\source\repos\Week15OOPAndFiles\Practice 2\obj\Debug\net6.0\Practice 2.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\Week15OOPAndFiles\Practice 2\obj\Debug\net6.0\Practice 2.dll
+C:\Users\krist\source\repos\Week15OOPAndFiles\Practice 2\obj\Debug\net6.0\refint\Practice 2.dll
+C:\Users\krist\source\repos\Week15OOPAndFiles\Practice 2\obj\Debug\net6.0\Practice 2.pdb
+C:\Users\krist\source\repos\Week15OOPAndFiles\Practice 2\obj\Debug\net6.0\Practice 2.genruntimeconfig.cache
+C:\Users\krist\source\repos\Week15OOPAndFiles\Practice 2\obj\Debug\net6.0\ref\Practice 2.dll
